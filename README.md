@@ -25,9 +25,9 @@ Instead of just a terminal script, I wanted to build a complete, usable tool. Th
 
 ### Built With
 
--> Python (Pandas & NumPy for data cleaning and math)
--> Streamlit (web interface)
--> FPDF (generating PDF files)
+-> Python (Pandas & NumPy for data cleaning and math) <br>
+-> Streamlit (web interface) <br>
+-> FPDF (generating PDF files) <br>
 -> Matplotlib (visual charts)
 
 ### A quick glimpse at how the app looks like
